@@ -1,0 +1,6 @@
+name = Test version module
+description = not really
+backdrop = 1.x
+type = module
+version 1.x-1.0.0
+
